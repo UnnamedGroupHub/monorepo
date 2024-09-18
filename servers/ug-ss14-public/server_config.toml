@@ -38,6 +38,11 @@ lobbyenabled = true
 auto_pause_empty = true
 maxplayers = 69
 soft_max_players = 69
+maxcharacterslots = 5
+role_timers = false
+role_whitelist = false
+cryo_sleep_rejoining = true
+
 
 [console]
 # If this is true, people connecting from this machine (loopback)
